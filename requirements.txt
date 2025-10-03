@@ -1,2 +1,16 @@
-fastapi[standard]
+fastapi
 uvicorn[standard]
+databases
+psycopg2-binary
+langchain
+pydantic
+aiofiles
+aiosqlite
+python-multipart
+requests
+python-dotenv
+sqlalchemy[asyncio]
+langchain_groq
+sqlalchemy
+duckduckgo-search
+langchain-community
